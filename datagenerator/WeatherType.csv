@@ -1,7 +1,8 @@
-1,Rain
-2,Fog
-3,Cold
-4,Snow
-5,Storm
-6,Precipitation
+TypeId,TypeName
+1,Fog
+2,Rain
+3,Snow
+4,Precipitation
+5,Cold
+6,Storm
 7,Hail
